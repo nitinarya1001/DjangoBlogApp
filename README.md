@@ -1,2 +1,2 @@
 # DjangoBlogApp
-Web Application to post blogs
+Web Application to post personal blogs
